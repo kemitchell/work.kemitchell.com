@@ -2,7 +2,7 @@ This page describes [the work I do](#do), [seek to do](#seek), and [do not do](#
 
 Please note that I am _not_ certified in any area of specialty by the California Board of Specialization or any organization.  I am an attorney member [291465](http://members.calbar.ca.gov/fal/Licensee/Detail/291465) of the State Bar of California.
 
-This page does not address my availability.  See [my availability page](https://availability.kemitchell.com).
+This page does not address my availability.  See [availability.kemitchell.com](https://availability.kemitchell.com) for that information.
 
 ## Do
 
