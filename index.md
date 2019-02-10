@@ -1,4 +1,4 @@
-This page describes [the work I do](#do), [seek to do](#seek), and [do not do](#do-not-do) as a California attorney.
+This page describes [the work I do](#do), [seek to do](#seek), and [do not do](#do-not-do) as a California lawyer.
 
 Please note that I am _not_ certified in any area of specialty by the California Board of Specialization or any other organization.  I am attorney member [291465](http://members.calbar.ca.gov/fal/Licensee/Detail/291465) of the State Bar of California.
 
