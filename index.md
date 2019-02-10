@@ -10,7 +10,7 @@ I spend most days negotiating contracts, structuring new business entities, and 
 
 ### Software
 
-I prepare standard form agreements and negotiation policies for the sale of software, software as a service, and software-related services, like custom development, training, maintenance, and support.
+I prepare form agreements and negotiation playbooks for the sale of software, software as a service, and software-related services, like custom development, training, maintenance, and support.
 
 I negotiate agreements for software and related services, often in support of a sales team.
 
