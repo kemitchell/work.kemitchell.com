@@ -64,6 +64,6 @@ I do not advise on tax matters.
 
 I do not advise on employment law matters.
 
-I do not prosecute patents.
+I do not apply for patents.
 
 With very rare, short-term exception, I do not take employee, officer, director, or other titles at clients.
