@@ -40,6 +40,12 @@ I structure and form legal entities for startups, small businesses, and studios 
 
 In earlier years, I advised on startup financing and exits.  I tend to refer that work now.
 
+### Commercial Contracts
+
+I prepare forms for, and negotiate, a variety of other business contracts, such as marketing and professional services agreements.
+
+I draft plain-language contracts and policies that non-lawyers can read and apply.
+
 ## Work I'd Like to Do
 
 I am actively seeking an opportunity to draft a balanced, plain-language form contract for penetration testing, black-box audit, and white-box audit.
