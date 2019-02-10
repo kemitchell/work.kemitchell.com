@@ -1,4 +1,4 @@
-This page describes [the work I do](#do), [seek to do](#seek), and [do not do](#do-not-do).
+This page describes [the work I do](#do), [seek to do](#seek), and [do not do](#do-not-do) as a California attorney.
 
 Please note that I am _not_ certified in any area of specialty by the California Board of Specialization or any other organization.  I am attorney member [291465](http://members.calbar.ca.gov/fal/Licensee/Detail/291465) of the State Bar of California.
 
@@ -8,21 +8,19 @@ This page does not address my availability.  See [availability.kemitchell.com](h
 
 I spend most days negotiating contracts, structuring new business entities, and advising on strategy for licensing and selling software and software services.
 
-Most of the work I do involves [software](#software), [intellectual property](#intellectual-property), [privacy](#privacy), or [business structure](#business-structure).
-
 ### Software
 
 I prepare standard form agreements and negotiation policies for the sale of software, software as a service, and software-related services, like custom development, training, maintenance, and support.
 
 I negotiate agreements for software and related services, often in support of a sales team.
 
-I prepare terms of service.
+I prepare terms of service for websites and web applications.
 
 ### Intellectual Property
 
 I advise on business models and licensing options related to open source software.
 
-I advise on issues related to complying with open source, Creative Commons, and other public intellectual property licenses.
+I advise on compliance with open source, Creative Commons, and other public intellectual property licenses.
 
 I adapt intellectual property commons licensing practices from open source software, Creative Commons, and similar movements to new industries.
 
@@ -34,11 +32,13 @@ I advise on privacy implications and compliance obligations in product and servi
 
 I prepare records for compliance with privacy laws.
 
-I prepare privacy notices.
+I prepare privacy policies.
 
 ### Business Structure
 
-I structure and form legal entities for startups, small businesses, and studios, including cooperatives.
+I structure and form legal entities for startups, small businesses, and studios with peculiar needs, including cooperatives.
+
+In earlier years, I advised on startup financing and exits.  I tend to refer that work now.
 
 ## Work I'd Like to Do
 
