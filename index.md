@@ -57,7 +57,7 @@ I am actively seeking an opportunity to draft a balanced, plain-language form co
 
 ## Work I Do Not Do
 
-<aside class=info>This list is necessarily incomplete.  I mention only the most common requests for work that I do not do.</aside>
+<aside class="info">This list is necessarily incomplete.  I mention only the most common requests for work that I do not do.</aside>
 
 I do not represent clients in litigation.
 
