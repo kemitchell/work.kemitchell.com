@@ -1,3 +1,8 @@
 title: Kyle Mitchell’s Work
 url: https://work.kemitchell.com
 homepage: https://work.kemitchell.com
+exclude:
+- vendor
+- Gemfile
+- Gemfile.lock
+- publish
