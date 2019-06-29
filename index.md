@@ -9,7 +9,7 @@ This page does not address my availability.  See [availability.kemitchell.com](h
 
 ## Work I Do
 
-I spend most days negotiating contracts, structuring new business entities, and advising on strategy for licensing and selling software and software services.
+I spend most days negotiating contracts for software licenses, services, and development, structuring new business entities, and advising on strategy for licensing and selling software and software services.  I routinely update terms of service, privacy policies, and other public-facing documents for clients.
 
 ### Software
 
@@ -57,7 +57,7 @@ I am actively seeking an opportunity to draft a balanced, plain-language form co
 
 ## Work I Do Not Do
 
-<aside class="info">This list is necessarily incomplete.  I mention only the most common requests for work that I do not do.</aside>
+<aside class=info>This list is necessarily incomplete.  I mention only the most common requests for work that I do not do.</aside>
 
 I do not represent clients in litigation.
 
