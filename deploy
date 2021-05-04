@@ -1,3 +1,4 @@
 set -e
+site=work.kemitchell.com
 bundle exec jekyll build
-rsync -a --delete _site/ kyle@kemitchell.com:/var/www/work.kemitchell.com/
+rsync -a --delete _site/ $site:/var/www/$site/
