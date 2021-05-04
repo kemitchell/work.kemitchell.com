@@ -53,8 +53,6 @@ I draft plain-language contracts and policies that non-lawyers can read and appl
 
 I am actively seeking an opportunity to draft a balanced, plain-language form contract for penetration testing, black-box audit, and white-box audit.
 
-I am actively seeking an opportunity to draft a balanced, plain-language form contract for cryptographic audit services.
-
 ## Work I Do Not Do
 
 <aside class="info">This list is necessarily incomplete.  I mention only the most common requests for work that I do not do.</aside>
